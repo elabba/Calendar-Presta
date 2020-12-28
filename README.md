@@ -1,4 +1,4 @@
-# Calendar-Presta
+# Calendar-Prestashop
 Calendar run interval for Prestashop
 
 In the standard Prestashop engine, there is no functionality for choosing the date and time of delivery in the cart.
